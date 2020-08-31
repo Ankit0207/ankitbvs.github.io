@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ankitbvs.netlify.app/author/ankit-b-v-s/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ankitbvs.netlify.app/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ankitbvs.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ankitbvs.netlify.app/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ankitbvs.netlify.app/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ankitbvs.netlify.app/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ankitbvs.netlify.app/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ankitbvs.netlify.app/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ankitbvs.netlify.app/tags/</loc>
+  </url>
+  
+</urlset>
